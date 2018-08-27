@@ -1,2 +1,1 @@
-Custom Post Types and Taxonomies to display snippets in ThemeForest's proofing page Edit
-Add topics
+Custom Post Types and Taxonomies to display Review snippets in Envato Market
